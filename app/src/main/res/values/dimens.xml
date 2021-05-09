@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_left_card_view">10dp</dimen>
+    <dimen name="margin_left_right_ll_horizontal_card_view">10dp</dimen>
+    <dimen name="text_size_number_placeHolders_card_view">25sp</dimen>
+    <dimen name="text_size_four_heading_card_view">18sp</dimen>
+    <dimen name="text_size_all_states_heading">18sp</dimen>
+    <dimen name="margin_top_for_placeholders_text">5dp</dimen>
+    <dimen name="margin_top_headings_card_view">20dp</dimen>
+    <dimen name="margin_left_heading_states">50dp</dimen>
+</resources>
